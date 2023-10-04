@@ -1,2 +1,2 @@
 # DIORNA_Inventory_Control
-Program for Admininitration of Inventory en Bussiness
+Program for Administration of Inventory in Business
