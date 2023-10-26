@@ -65,7 +65,7 @@ QLabel{
     <enum>QTabWidget::Triangular</enum>
    </property>
    <property name="currentIndex">
-    <number>0</number>
+    <number>2</number>
    </property>
    <property name="iconSize">
     <size>
@@ -556,7 +556,7 @@ border: 2px solid #0b0b0b;  /* Define el color del borde y el grosor */
 border-radius: 5px;  /* Define el radio del borde, cuanto mayor el número, más redondeado */</string>
            </property>
            <property name="text">
-            <string>AGREGAR</string>
+            <string>AGREGAR TODO EL PRODUCTO</string>
            </property>
           </widget>
          </item>
